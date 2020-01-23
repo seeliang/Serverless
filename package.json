@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "serverless": "^1.61.3"
+  },
+  "name": "Serverless",
+  "version": "1.0.0",
+  "description": "demo for serverless",
+  "main": "index.js",
+  "repository": "https://github.com/seeliang/Serverless.git",
+  "author": "seeliang <me@sihuiliang.com>",
+  "license": "MIT",
+  "private": false
+}
